@@ -37,13 +37,15 @@ Ensure the following are installed on your system:
  ## Screenshots
 
 ### Dashboard Home
-![Dashboard Home](screenshots/dashboard_home.png)
+![Dashboard Home](1.jpg)
 
 ### Filter View
-![Filter View](screenshots/filter_view.png)
+![Filter View](2.jpg)
+![Filter View](3.jpg)
 
 ### Trade Trends
-![Trade Trends](screenshots/trade_trends.png)
+![Trade Trends](4.jpg)
+![Trade Trends](5.jpg)
 
 
 You can install the required packages using:
