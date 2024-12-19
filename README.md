@@ -32,7 +32,19 @@ Ensure the following are installed on your system:
 - **Additional Tools**:
   - A working internet connection for live data updates (if applicable).
  
-- https://drive.google.com/file/d/1fIA4nHP22HB6TLUElrfDYGjlFfQoIITv/view?usp=sharing
+-  Download the trade data: https://drive.google.com/file/d/1fIA4nHP22HB6TLUElrfDYGjlFfQoIITv/view?usp=sharing
+
+ ## Screenshots
+
+### Dashboard Home
+![Dashboard Home](screenshots/dashboard_home.png)
+
+### Filter View
+![Filter View](screenshots/filter_view.png)
+
+### Trade Trends
+![Trade Trends](screenshots/trade_trends.png)
+
 
 You can install the required packages using:
 
